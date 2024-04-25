@@ -53,3 +53,5 @@ This project contains two versions of the classic Tic Tac Toe game: a console-ba
 Contributions to enhance the games, add new features, or improve the AI algorithm are welcome. Please fork the repository, make your changes, and submit a pull request with a detailed description of your improvements.
 
 ---
+
+Created with ❤️ in 2023 by [Son Nguyen](https://github.com/hoangsonww). All rights reserved.
